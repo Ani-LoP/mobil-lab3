@@ -1,3 +1,4 @@
+import React from 'react'
 import {Button, View, Text, StyleSheet, Dimensions} from "react-native";
 //import MapView from 'react-native-maps';
 
